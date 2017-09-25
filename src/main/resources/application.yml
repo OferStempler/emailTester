@@ -1,0 +1,23 @@
+
+
+k300.password: Q1Q1Q1Q1
+k300.userName: info@creditplace.co.il
+k300.host: smtp.gmail.com
+k300.port: 465
+k300.toAddress: oferstemp@gmail.com
+k300.subject: New email with attachments
+k300.message: I have some attachments for you.
+k300.sentFrom: yoslev@gmail.com
+
+k300.enableTestEmail: 1
+k300.saveFileTo: /home/ofer/Ofer/EmailTester/
+
+#k300.email.saveFileTo: C:\\Sanitize\\
+
+
+logging:
+ file: /home/ofer/Ofer/emailTest.log
+ level:
+  il.co.boj.tester: DEBUG
+
+
